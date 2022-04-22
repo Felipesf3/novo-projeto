@@ -79,13 +79,13 @@ section.imagem >p {
 }
 
 section#img001{
-    background-image: url(img\foto-praia.jpeg);
+    background-image: url("img\foto-praia.jpeg")";
     background-position: top center;
     
 }
 
 .imagem#img002{
-    background-image: url(img\foto-flor.jpeg);
+    background-image: url("img\foto-flor.jpeg");
     background-position: center left;
     background-attachment: fixed;
     background-size: cover;
