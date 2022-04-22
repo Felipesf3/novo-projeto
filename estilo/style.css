@@ -78,14 +78,14 @@ section.imagem >p {
     padding: 10px;
 }
 
-section#img001{
-    background-image: url("/img/foto-praia.jpeg");
+section#img1{
+    background-image: url("/img/foto-praia.jpg");
     background-position: top center;
     
 }
 
-.imagem#img002{
-    background-image: url("/img/foto-flor.jpeg");
+.imagem#img2{
+    background-image: url(/img/foto-flor.jpg);
     background-position: center left;
     background-attachment: fixed;
     background-size: cover;
